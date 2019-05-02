@@ -6,15 +6,15 @@ body{
       max-width: 760;
 }
 a:link {
-      color: Blue;
+      color: #331102;
       text-decoration: underline;
 }
 a:visited {
-      color: #990000;
+      color: #89543b;
       text-decoration: underline;
 }
 a:hover {
-      color:#006633;
+      color:#000000;
       text-decoration: none;
 }
 #footer {
