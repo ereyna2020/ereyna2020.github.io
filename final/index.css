@@ -37,3 +37,13 @@ a:hover {
 h1 {
   color: #562007;
 }
+table, td, th {
+  border: 2.5px solid black;
+}
+table {
+  border-collapse: collapse;
+  width: 100%;
+}
+th {
+  height: normal;
+}
